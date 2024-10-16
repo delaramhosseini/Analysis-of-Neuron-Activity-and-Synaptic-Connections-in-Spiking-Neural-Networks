@@ -1,4 +1,4 @@
-Analysis of Neuron Activity and Synaptic Connections in Spiking Neural Networks
+# Analysis of Neuron Activity and Synaptic Connections in Spiking Neural Networks
 
 ## Project Objectives
 1. **Understand Neuron Activity**: Investigate the performance dynamics of synapses.
